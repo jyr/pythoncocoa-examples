@@ -1,0 +1,170 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4EF4CFC9116E4CE800EFE5EB /* Toolbar */;
+		activeTarget = 8D1107260486CEB800E47090 /* Toolbar */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Toolbar */,
+		);
+		codeSenseManager = 4EF4CFD1116E4CED00EFE5EB /* Code sense */;
+		executables = (
+			4EF4CFC9116E4CE800EFE5EB /* Toolbar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292450557;
+			PBXWorkspaceStateSaveDate = 292450557;
+		};
+		perUserProjectItems = {
+			4EF4D018116E690800EFE5EB = 4EF4D018116E690800EFE5EB /* PBXTextBookmark */;
+			4EF4D019116E690800EFE5EB = 4EF4D019116E690800EFE5EB /* PBXTextBookmark */;
+			4EF4D01A116E690800EFE5EB = 4EF4D01A116E690800EFE5EB /* PBXTextBookmark */;
+			4EF4D01B116E690800EFE5EB = 4EF4D01B116E690800EFE5EB /* PBXTextBookmark */;
+			4EF4D01C116E690800EFE5EB = 4EF4D01C116E690800EFE5EB /* PBXTextBookmark */;
+			4EF4D025116E710400EFE5EB /* PBXTextBookmark */ = 4EF4D025116E710400EFE5EB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4EF4CFD0116E4CED00EFE5EB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4EF4CFC9116E4CE800EFE5EB /* Toolbar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Toolbar;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	4EF4CFD0116E4CED00EFE5EB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	4EF4CFD1116E4CED00EFE5EB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4EF4CFD2116E4D5000EFE5EB /* TBController.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 588}}";
+			sepNavSelRange = "{315, 0}";
+			sepNavVisRange = "{0, 429}";
+		};
+	};
+	4EF4D018116E690800EFE5EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77631A3E0C0748CF005415CB /* main.py */;
+		name = "main.py: 16";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	4EF4D019116E690800EFE5EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4EF4CFD2116E4D5000EFE5EB /* TBController.py */;
+		name = "TBController.py: 4";
+		rLen = 12;
+		rLoc = 64;
+		rType = 0;
+		vrLen = 128;
+		vrLoc = 0;
+	};
+	4EF4D01A116E690800EFE5EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4EF4CFD2116E4D5000EFE5EB /* TBController.py */;
+		name = "TBController.py: 4";
+		rLen = 12;
+		rLoc = 64;
+		rType = 0;
+		vrLen = 128;
+		vrLoc = 0;
+	};
+	4EF4D01B116E690800EFE5EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77631A3E0C0748CF005415CB /* main.py */;
+		name = "main.py: 16";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	4EF4D01C116E690800EFE5EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4EF4CFD2116E4D5000EFE5EB /* TBController.py */;
+		name = "TBController.py: 14";
+		rLen = 0;
+		rLoc = 315;
+		rType = 0;
+		vrLen = 429;
+		vrLoc = 0;
+	};
+	4EF4D025116E710400EFE5EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4EF4CFD2116E4D5000EFE5EB /* TBController.py */;
+		name = "TBController.py: 14";
+		rLen = 0;
+		rLoc = 315;
+		rType = 0;
+		vrLen = 429;
+		vrLoc = 0;
+	};
+	77631A3E0C0748CF005415CB /* main.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 380}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{0, 432}";
+			sepNavWindowFrame = "{{15, 265}, {1110, 508}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Toolbar */ = {
+		activeExec = 0;
+		executables = (
+			4EF4CFC9116E4CE800EFE5EB /* Toolbar */,
+		);
+	};
+}
