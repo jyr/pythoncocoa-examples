@@ -1,0 +1,234 @@
+TFullScreen
+v7
+r3
+t335315066.624579
+cCheck dependencies
+cProcessInfoPlistFile /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/FullScreen.app/Contents/Resources/main.py main.py
+cCpResource build/Debug/FullScreen.app/Contents/Resources/FullScreenAppDelegate.py FullScreenAppDelegate.py
+cCompileXIB /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FullScreen_Prefix-gkvwevntvxjbirhhhgxkcoktiwgg/FullScreen_Prefix.pch.gch FullScreen_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FullScreen_Prefix-axqvzrfrqwvtfefxbwgzbjkshwoj/FullScreen_Prefix.pch.gch FullScreen_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Python.framework/Headers/Python.h
+c000000004864C5EF000000000000106C
+t1214563823
+s4204
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/System/Library/Frameworks/Python.framework/Python
+c000000004C2437DE00000000003E7770
+t1277442014
+s4093808
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/English.lproj/InfoPlist.strings
+c000000004E4A837100000000000000CA
+t1313506161
+s202
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/English.lproj/MainMenu.xib
+c000000004E4A8371000000000001FCB5
+t1313506161
+s130229
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/FullScreenAppDelegate.py
+c000000004E4A83710000000000000152
+t1313506161
+s338
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/FullScreen_Prefix.pch
+c000000004E4A83710000000000000097
+t1313506161
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app
+t2
+s0
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Info.plist
+t1313622258
+s839
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/MacOS/FullScreen
+t2
+s0
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/PkgInfo
+t1313622258
+s8
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1313622258
+s202
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Resources/English.lproj/MainMenu.nib
+t1313622258
+s28259
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Resources/FullScreenAppDelegate.py
+t1313622258
+s338
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Resources/main.py
+t1313622258
+s418
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/Objects-normal/i386/FullScreen
+t2
+s0
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/Objects-normal/i386/FullScreen.LinkFileList
+c000000004E4C48F20000000000000088
+t1313622258
+s136
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/Objects-normal/ppc/FullScreen
+t2
+s0
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/Objects-normal/ppc/FullScreen.LinkFileList
+c000000004E4C48F20000000000000087
+t1313622258
+s135
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/Objects-normal/ppc/main.o
+t2
+s0
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/main.m
+c000000004E4A83710000000000000719
+t1313506161
+s1817
+i<Python/Python.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/main.py
+c000000004E4A837100000000000001A2
+t1313506161
+s418
+
+N/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FullScreen_Prefix-axqvzrfrqwvtfefxbwgzbjkshwoj/FullScreen_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FullScreen_Prefix-gkvwevntvxjbirhhhgxkcoktiwgg/FullScreen_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004E4A83710000000000000394
+t1313506161
+s916
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335315057#335315058#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/FullScreen.build/Debug/FullScreen.build/Objects-normal/i386/main.o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FullScreen.build/Debug/FullScreen.build/Objects-normal/ppc/main.o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/English.lproj/MainMenu.xib
+s335315058.109460
+e335315058.432573
+r1
+xCompileXIB
+x/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib335315058#335315058#0(0"0(0#0#89"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/English.lproj/MainMenu.xib8620290016#439"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Resources/English.lproj/MainMenu.nib /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s335315058.107272
+e335315058.166912
+r1
+xCopyStringsFile
+x/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings335315058#335315058#0(0"0(0#0#94"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/English.lproj/InfoPlist.strings8621333824#417"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/FullScreen.app/Contents/Resources/FullScreenAppDelegate.py FullScreenAppDelegate.py
+s335315058.108912
+e335315058.119160
+r1
+xCpResource
+xbuild/Debug/FullScreen.app/Contents/Resources/FullScreenAppDelegate.py
+xFullScreenAppDelegate.py
+lSLF07#2@29"Copy FullScreenAppDelegate.py335315058#335315058#0(0"0(0#0#87"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/FullScreenAppDelegate.py8620940128#429"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/FullScreenAppDelegate.py /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Resources0#
+
+CCpResource build/Debug/FullScreen.app/Contents/Resources/main.py main.py
+s335315058.108333
+e335315058.129453
+r1
+xCpResource
+xbuild/Debug/FullScreen.app/Contents/Resources/main.py
+xmain.py
+lSLF07#2@12"Copy main.py335315058#335315058#0(0"0(0#0#70"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/main.py8621213600#412"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/main.py /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/MacOS/FullScreen normal "i386 ppc"
+r0
+
+CLd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/Objects-normal/i386/FullScreen normal i386
+r0
+
+CLd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/Objects-normal/ppc/FullScreen normal ppc
+r0
+
+CProcessInfoPlistFile /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Info.plist Info.plist
+s335315058.073591
+e335315058.107097
+r1
+xProcessInfoPlistFile
+x/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist335315058#335315058#0(0"0(0#0#73"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/Info.plist27303270316638308#380"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen    builtin-infoPlistUtility Info.plist -genpkginfo /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FullScreen_Prefix-axqvzrfrqwvtfefxbwgzbjkshwoj/FullScreen_Prefix.pch.gch FullScreen_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s335315058.433730
+e335315066.624536
+r0
+xProcessPCH
+x/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FullScreen_Prefix-axqvzrfrqwvtfefxbwgzbjkshwoj/FullScreen_Prefix.pch.gch
+xFullScreen_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile FullScreen_Prefix.pch335315058#335315066#0(0"0(0#0#84"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/FullScreen_Prefix.pch8619420672#1183"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/FullScreen.hmap -F/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/include -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/DerivedSources/ppc -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/DerivedSources -c /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/FullScreen_Prefix.pch -o /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FullScreen_Prefix-axqvzrfrqwvtfefxbwgzbjkshwoj/FullScreen_Prefix.pch.gch2#
+
+CProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FullScreen_Prefix-gkvwevntvxjbirhhhgxkcoktiwgg/FullScreen_Prefix.pch.gch FullScreen_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s335315058.432694
+e335315066.523937
+r0
+xProcessPCH
+x/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FullScreen_Prefix-gkvwevntvxjbirhhhgxkcoktiwgg/FullScreen_Prefix.pch.gch
+xFullScreen_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile FullScreen_Prefix.pch335315058#335315066#0(0"0(0#0#84"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/FullScreen_Prefix.pch8619613568#1175"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/FullScreen.hmap -F/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/include -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/DerivedSources/i386 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/FullScreen.build/Debug/FullScreen.build/DerivedSources -c /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/FullScreen_Prefix.pch -o /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FullScreen_Prefix-gkvwevntvxjbirhhhgxkcoktiwgg/FullScreen_Prefix.pch.gch2#
+
+CTouch /Users/jyr/Desarrollo/personal/pythoncocoa-examples/FullScreen/build/Debug/FullScreen.app
+r0
+
