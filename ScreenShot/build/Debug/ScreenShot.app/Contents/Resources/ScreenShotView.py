@@ -30,11 +30,14 @@ class ScreenShotView (NSView):
 			bitmapRep = NSBitmapImageRep.alloc().initWithCGImage_(screenShot)
 			self.image = NSImage.alloc().init()
 			self.image.addRepresentation_(bitmapRep)
-			print dir(self.image)
 			self.image.hasAlpha()
-			#print self.frameSize()
 
-			
+    def acceptsFirstResponder(self):
+		return YES
+
+    def mouseDown_(self, event):
+		NSApp.terminate_(self)
+		
     def drawRect_(self, rect):
 		colorspace = CGColorSpaceCreateDeviceGray()
 		maskContext = CGBitmapContextCreate(None, self.bounds().size.width, self.bounds().size.height, 8, self.bounds().size.width, colorspace, 0)
@@ -53,7 +56,6 @@ class ScreenShotView (NSView):
 		
 		CGContextFillRect(windowContext, rect)
 		CGContextClipToMask(windowContext, NSRectToCGRect(self.bounds()), alphaMask)
-		#NSImage.imageNamed_("screen.png").drawInRect_fromRect_operation_fraction_(rect, NSZeroRect, NSCompositeCopy, 1.0)
 
 		self.image.drawAtPoint_fromRect_operation_fraction_(NSZeroPoint, NSZeroRect, NSCompositeSourceOver, 1.0)
 

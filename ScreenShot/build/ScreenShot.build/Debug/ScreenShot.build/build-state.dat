@@ -1,7 +1,7 @@
 TScreenShot
 v7
 r0
-t335506539.570587
+t335568517.417414
 cCheck dependencies
 cProcessInfoPlistFile /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Info.plist Info.plist
 cCopyStringsFile /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
@@ -11,13 +11,9 @@ cCompileXIB /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/Engli
 cCpResource build/Debug/ScreenShot.app/Contents/Resources/ScreenShotController.py ScreenShotController.py
 cCpResource build/Debug/ScreenShot.app/Contents/Resources/ScreenShotView.py ScreenShotView.py
 cCpResource build/Debug/ScreenShot.app/Contents/Resources/screen.png ../../../../Desktop/screen.png
-cProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-hdlxfvwfzrjddaaptwrgttrmmbon/ScreenShot_Prefix.pch.gch ScreenShot_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-bfvouhmlndjxseauvohrwfuqfhwf/ScreenShot_Prefix.pch.gch ScreenShot_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-dtocgxnyyfoumvdonohskjslvxkg/ScreenShot_Prefix.pch.gch ScreenShot_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/i386/main.o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/i386/ScreenShot normal i386
-cCompileC build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/ppc/main.o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
-cLd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/ppc/ScreenShot normal ppc
-cCreateUniversalBinary /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/MacOS/ScreenShot normal "i386 ppc"
+cLd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/MacOS/ScreenShot normal i386
 cTouch /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app
 
 N/Developer/SDKs/MacOSX10.5.sdk
@@ -76,9 +72,9 @@ t1313791001
 s609
 
 N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShotView.py
-c000000004E4F33B400000000000007E5
-t1313813428
-s2021
+c000000004E50261C00000000000007A8
+t1313875484
+s1960
 
 N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShot_Prefix.pch
 c000000004E4EA9120000000000000097
@@ -87,19 +83,19 @@ s151
 i<Cocoa/Cocoa.h>
 
 N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app
-t1313813431
+t1313875487
 s102
 
 N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Info.plist
-t1313778857
+t1313853865
 s839
 
 N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/MacOS/ScreenShot
-t1313779241
-s42136
+t1313853872
+s18076
 
 N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/PkgInfo
-t1313778857
+t1313853865
 s8
 
 N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Resources/English.lproj/InfoPlist.strings
@@ -119,8 +115,8 @@ t1313791005
 s609
 
 N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Resources/ScreenShotView.py
-t1313813431
-s2021
+t1313875487
+s1960
 
 N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Resources/main.py
 t1313778857
@@ -140,8 +136,8 @@ t1313778857
 s136
 
 N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/i386/main.o
-t1313778908
-s10856
+t1313853871
+s10864
 
 N/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/ppc/ScreenShot
 t1313779241
@@ -172,6 +168,10 @@ N/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/Shared
 t1313778900
 s50315472
 
+N/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-dtocgxnyyfoumvdonohskjslvxkg/ScreenShot_Prefix.pch.gch
+t1313853870
+s54002064
+
 N/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-hdlxfvwfzrjddaaptwrgttrmmbon/ScreenShot_Prefix.pch.gch
 t1313778899
 s54002064
@@ -183,11 +183,11 @@ s916
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies335506539#335506539#0(0"0(0#1#0"8621796352#0"0#
+lSLF07#2@18"Check dependencies335568517#335568517#0(0"0(0#1#0"8615312672#0"0#
 
 CCompileC build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/i386/main.o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s335471700.992324
-e335471708.579652
+s335546670.795562
+e335546671.163299
 r1
 xCompileC
 xbuild/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/i386/main.o
@@ -196,7 +196,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@77"Compile /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/main.m335471701#335471708#0(0"0(0#0#69"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/main.m8614810144#1294"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/ScreenShot.hmap -F/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/include -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/DerivedSources/i386 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/DerivedSources -include /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-hdlxfvwfzrjddaaptwrgttrmmbon/ScreenShot_Prefix.pch -c /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/main.m -o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/i386/main.o0#
+lSLF07#2@77"Compile /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/main.m335546670#335546671#0(0"0(0#0#69"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/main.m8604069152#1294"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/ScreenShot.hmap -F/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/include -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/DerivedSources/i386 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/DerivedSources -include /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-dtocgxnyyfoumvdonohskjslvxkg/ScreenShot_Prefix.pch -c /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/main.m -o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/i386/main.o0#
 
 CCompileC build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/ppc/main.o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
 s335471701.037842
@@ -247,13 +247,13 @@ xScreenShotController.py
 lSLF07#2@28"Copy ScreenShotController.py335483805#335483805#0(0"0(0#0#86"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShotController.py8615354976#428"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShotController.py /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Resources0#
 
 CCpResource build/Debug/ScreenShot.app/Contents/Resources/ScreenShotView.py ScreenShotView.py
-s335506231.698360
-e335506231.719650
+s335568287.248320
+e335568287.254358
 r1
 xCpResource
 xbuild/Debug/ScreenShot.app/Contents/Resources/ScreenShotView.py
 xScreenShotView.py
-lSLF07#2@22"Copy ScreenShotView.py335506231#335506231#0(0"0(0#0#80"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShotView.py8619071232#422"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShotView.py /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Resources0#
+lSLF07#2@22"Copy ScreenShotView.py335568287#335568287#0(0"0(0#0#80"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShotView.py8615257376#422"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShotView.py /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Resources0#
 
 CCpResource build/Debug/ScreenShot.app/Contents/Resources/main.py main.py
 s335471657.367223
@@ -283,6 +283,16 @@ xnormal
 xi386 ppc
 lSLF07#2@92"CreateUniversalBinary build/Debug/ScreenShot.app/Contents/MacOS/ScreenShot normal "i386 ppc"335472041#335472041#0(0"0(0#0#71"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/i386 ppc8612470912#499"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    /usr/bin/lipo -create /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/i386/ScreenShot /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/ppc/ScreenShot -output /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/MacOS/ScreenShot0#
 
+CLd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/MacOS/ScreenShot normal i386
+s335546671.163391
+e335546672.099692
+r1
+xLd
+x/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/MacOS/ScreenShot
+xnormal
+xi386
+lSLF07#2@120"Link /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/MacOS/ScreenShot335546671#335546672#0(0"0(0#0#0"8604193280#709"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug -F/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug -filelist /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/i386/ScreenShot.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework Python -framework Quartz -o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/MacOS/ScreenShot0#
+
 CLd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/i386/ScreenShot normal i386
 s335472040.598862
 e335472041.270484
@@ -304,13 +314,13 @@ xppc
 lSLF07#2@143"Link /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/ppc/ScreenShot335472040#335472041#0(0"0(0#0#0"8622825824#730"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug -F/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug -filelist /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/ppc/ScreenShot.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework Python -framework Quartz -o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/Objects-normal/ppc/ScreenShot0#
 
 CProcessInfoPlistFile /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Info.plist Info.plist
-s335471657.362728
-e335471657.366280
+s335546665.607223
+e335546665.631948
 r1
 xProcessInfoPlistFile
 x/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Info.plist
 xInfo.plist
-lSLF07#2@18"Process Info.plist335471657#335471657#0(0"0(0#0#73"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/Info.plist8613842784#380"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    builtin-infoPlistUtility Info.plist -genpkginfo /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Info.plist0#
+lSLF07#2@18"Process Info.plist335546665#335546665#0(0"0(0#0#73"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/Info.plist27303270317031536#380"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    builtin-infoPlistUtility Info.plist -genpkginfo /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app/Contents/Info.plist0#
 
 CProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-bfvouhmlndjxseauvohrwfuqfhwf/ScreenShot_Prefix.pch.gch ScreenShot_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
 s335471660.647731
@@ -324,6 +334,19 @@ xppc
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@32"Precompile ScreenShot_Prefix.pch335471660#335471700#0(0"0(0#0#84"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShot_Prefix.pch8614631776#1183"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/ScreenShot.hmap -F/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/include -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/DerivedSources/ppc -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/DerivedSources -c /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShot_Prefix.pch -o /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-bfvouhmlndjxseauvohrwfuqfhwf/ScreenShot_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-dtocgxnyyfoumvdonohskjslvxkg/ScreenShot_Prefix.pch.gch ScreenShot_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s335546665.650955
+e335546670.795339
+r1
+xProcessPCH
+x/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-dtocgxnyyfoumvdonohskjslvxkg/ScreenShot_Prefix.pch.gch
+xScreenShot_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile ScreenShot_Prefix.pch335546665#335546670#0(0"0(0#0#84"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShot_Prefix.pch8603804160#1175"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/ScreenShot.hmap -F/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/include -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/DerivedSources/i386 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/DerivedSources -c /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShot_Prefix.pch -o /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-dtocgxnyyfoumvdonohskjslvxkg/ScreenShot_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-hdlxfvwfzrjddaaptwrgttrmmbon/ScreenShot_Prefix.pch.gch ScreenShot_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s335471660.646696
@@ -339,10 +362,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@32"Precompile ScreenShot_Prefix.pch335471660#335471700#0(0"0(0#0#84"/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShot_Prefix.pch8615609248#1175"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/ScreenShot.hmap -F/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/include -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/DerivedSources/i386 -I/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/ScreenShot.build/Debug/ScreenShot.build/DerivedSources -c /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/ScreenShot_Prefix.pch -o /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenShot_Prefix-hdlxfvwfzrjddaaptwrgttrmmbon/ScreenShot_Prefix.pch.gch0#
 
 CTouch /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app
-s335506231.720296
-e335506231.726165
+s335568287.254713
+e335568287.265128
 r1
 xTouch
 x/Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app
-lSLF07#2@95"Touch /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app335506231#335506231#0(0"0(0#0#0"8618791488#182"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    /usr/bin/touch -c /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app0#
+lSLF07#2@95"Touch /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app335568287#335568287#0(0"0(0#0#0"8596805600#182"    cd /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot    /usr/bin/touch -c /Users/jyr/Desarrollo/personal/pythoncocoa-examples/ScreenShot/build/Debug/ScreenShot.app0#
 

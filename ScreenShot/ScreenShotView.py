@@ -30,10 +30,14 @@ class ScreenShotView (NSView):
 			bitmapRep = NSBitmapImageRep.alloc().initWithCGImage_(screenShot)
 			self.image = NSImage.alloc().init()
 			self.image.addRepresentation_(bitmapRep)
-			print dir(self.image)
 			self.image.hasAlpha()
 
-			
+    def acceptsFirstResponder(self):
+		return YES
+
+    def mouseDown_(self, event):
+		NSApp.terminate_(self)
+		
     def drawRect_(self, rect):
 		colorspace = CGColorSpaceCreateDeviceGray()
 		maskContext = CGBitmapContextCreate(None, self.bounds().size.width, self.bounds().size.height, 8, self.bounds().size.width, colorspace, 0)
