@@ -12,10 +12,6 @@ from Quartz import *
 import objc
 class ScreenShotView (NSView):
 
-    def init(self):
-		self = super(ScreenShotController, self).initWithWindowNibName_("MainMenu")
-		return self.frameSize
-
     def awakeFromNib(self):
 		screenRect = NSScreen.mainScreen().frame()
 		self.setFrameSize_(screenRect.size)
@@ -39,6 +35,7 @@ class ScreenShotView (NSView):
 		NSApp.terminate_(self)
 		
     def drawRect_(self, rect):
+
 		colorspace = CGColorSpaceCreateDeviceGray()
 		maskContext = CGBitmapContextCreate(None, self.bounds().size.width, self.bounds().size.height, 8, self.bounds().size.width, colorspace, 0)
 		CGColorSpaceRelease(colorspace)

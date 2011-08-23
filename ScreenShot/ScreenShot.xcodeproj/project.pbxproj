@@ -11,6 +11,7 @@
 		4E2989B813FEE4CE0006DDEB /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E2989B713FEE4CE0006DDEB /* Quartz.framework */; };
 		4E298A2913FEF9710006DDEB /* ScreenShotView.py in Resources */ = {isa = PBXBuildFile; fileRef = 4E298A2813FEF9710006DDEB /* ScreenShotView.py */; };
 		4E298A9313FEFE1D0006DDEB /* screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E298A9213FEFE1D0006DDEB /* screen.png */; };
+		4EF219711404586D00E2F9E4 /* ScreenShot.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4EF219701404586D00E2F9E4 /* ScreenShot.xib */; };
 		77631A270C06C501005415CB /* Python.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77631A260C06C501005415CB /* Python.framework */; };
 		77631A3F0C0748CF005415CB /* main.py in Resources */ = {isa = PBXBuildFile; fileRef = 77631A3E0C0748CF005415CB /* main.py */; };
 		7790198F0C07548A00326F66 /* ScreenShotAppDelegate.py in Resources */ = {isa = PBXBuildFile; fileRef = 7790198E0C07548A00326F66 /* ScreenShotAppDelegate.py */; };
@@ -32,6 +33,7 @@
 		4E2989B713FEE4CE0006DDEB /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = System/Library/Frameworks/Quartz.framework; sourceTree = SDKROOT; };
 		4E298A2813FEF9710006DDEB /* ScreenShotView.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ScreenShotView.py; sourceTree = "<group>"; };
 		4E298A9213FEFE1D0006DDEB /* screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screen.png; path = ../../../../Desktop/screen.png; sourceTree = SOURCE_ROOT; };
+		4EF219701404586D00E2F9E4 /* ScreenShot.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ScreenShot.xib; sourceTree = "<group>"; };
 		77631A260C06C501005415CB /* Python.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Python.framework; path = /System/Library/Frameworks/Python.framework; sourceTree = "<absolute>"; };
 		77631A3E0C0748CF005415CB /* main.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 		7790198E0C07548A00326F66 /* ScreenShotAppDelegate.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ScreenShotAppDelegate.py; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				4EF219701404586D00E2F9E4 /* ScreenShot.xib */,
 			);
 			name = ScreenShot;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 				4E2989B313FEE4100006DDEB /* ScreenShotController.py in Resources */,
 				4E298A2913FEF9710006DDEB /* ScreenShotView.py in Resources */,
 				4E298A9313FEFE1D0006DDEB /* screen.png in Resources */,
+				4EF219711404586D00E2F9E4 /* ScreenShot.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
