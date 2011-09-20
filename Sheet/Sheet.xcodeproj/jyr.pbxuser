@@ -66,6 +66,7 @@
 			4E34BD581429379C007032B8 /* PBXTextBookmark */ = 4E34BD581429379C007032B8 /* PBXTextBookmark */;
 			4E34BD591429379C007032B8 /* PBXTextBookmark */ = 4E34BD591429379C007032B8 /* PBXTextBookmark */;
 			4E34BD5A1429379C007032B8 /* PBXTextBookmark */ = 4E34BD5A1429379C007032B8 /* PBXTextBookmark */;
+			4E34BD5C1429396B007032B8 /* PBXTextBookmark */ = 4E34BD5C1429396B007032B8 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 4E34BC6214290C48007032B8 /* Source Control */;
 		userBuildSettings = {
@@ -117,9 +118,9 @@
 	};
 	4E34BC6414290C8D007032B8 /* Window.py */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1096, 416}}";
-			sepNavSelRange = "{178, 0}";
-			sepNavVisRange = "{69, 205}";
+			sepNavIntBoundsRect = "{{0, 0}, {1096, 351}}";
+			sepNavSelRange = "{559, 0}";
+			sepNavVisRange = "{273, 288}";
 		};
 	};
 	4E34BC6A14290CB4007032B8 /* PBXTextBookmark */ = {
@@ -177,7 +178,7 @@
 		fRef = 4E34BC6414290C8D007032B8 /* Window.py */;
 		name = "WindowController.py: 23";
 		rLen = 0;
-		rLoc = 728;
+		rLoc = 658;
 		rType = 0;
 		vrLen = 488;
 		vrLoc = 131;
@@ -297,7 +298,7 @@
 		fRef = 4E34BC6414290C8D007032B8 /* Window.py */;
 		name = "WindowController.py: 23";
 		rLen = 0;
-		rLoc = 597;
+		rLoc = 559;
 		rType = 0;
 		vrLen = 383;
 		vrLoc = 234;
@@ -317,7 +318,7 @@
 		fRef = 4E34BC6414290C8D007032B8 /* Window.py */;
 		name = "WindowController.py: 23";
 		rLen = 0;
-		rLoc = 597;
+		rLoc = 559;
 		rType = 0;
 		vrLen = 383;
 		vrLoc = 234;
@@ -357,7 +358,7 @@
 		fRef = 4E34BC6414290C8D007032B8 /* Window.py */;
 		name = "WindowController.py: 23";
 		rLen = 0;
-		rLoc = 586;
+		rLoc = 559;
 		rType = 0;
 		vrLen = 356;
 		vrLoc = 262;
@@ -387,7 +388,7 @@
 		fRef = 4E34BC6414290C8D007032B8 /* Window.py */;
 		name = "WindowController.py: 24";
 		rLen = 0;
-		rLoc = 602;
+		rLoc = 559;
 		rType = 0;
 		vrLen = 358;
 		vrLoc = 281;
@@ -397,7 +398,7 @@
 		fRef = 4E34BC6414290C8D007032B8 /* Window.py */;
 		name = "WindowController.py: 24";
 		rLen = 0;
-		rLoc = 602;
+		rLoc = 559;
 		rType = 0;
 		vrLen = 357;
 		vrLoc = 281;
@@ -431,6 +432,16 @@
 		rType = 0;
 		vrLen = 205;
 		vrLoc = 69;
+	};
+	4E34BD5C1429396B007032B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4E34BC6414290C8D007032B8 /* Window.py */;
+		name = "Window.py: 25";
+		rLen = 0;
+		rLoc = 559;
+		rType = 0;
+		vrLen = 288;
+		vrLoc = 273;
 	};
 	7790198E0C07548A00326F66 /* SheetAppDelegate.py */ = {
 		uiCtxt = {
