@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Sheet' target in the 'Sheet' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
