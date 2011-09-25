@@ -16,7 +16,6 @@ class TransparentWindow (NSWindow):
 		
 		if self:
 			self.setAlphaValue_(1.0)
-			print dir(self)
 			self.setBackgroundColor_(NSColor.clearColor())
 			self.setOpaque_(NO)
 		
